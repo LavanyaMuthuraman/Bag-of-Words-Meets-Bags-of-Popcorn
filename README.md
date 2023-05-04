@@ -1,4 +1,5 @@
 # Bag of Words Meets Bags of Popcorn
+##### To predict the sentiment of each movie reviews based on its text
 
 ### **Description**
 The objective of the [Bag of Words Meets Bags of Popcorn](https://www.kaggle.com/c/word2vec-nlp-tutorial/details/part-1-for-beginners-bag-of-words) Kaggle project is to develop a machine learning model that can accurately **classify movie reviews as either positive or negative.** The dataset for this project consists of movie reviews from the popular movie review website **IMDb**, and the task is to predict the sentiment of each review based on its text content. 
